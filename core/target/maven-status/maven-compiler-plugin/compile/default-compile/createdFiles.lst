@@ -1,0 +1,4 @@
+com\johnandrade\core\model\AbstractEntity.class
+com\johnandrade\core\model\Course$CourseBuilder.class
+com\johnandrade\core\repository\CourseRepository.class
+com\johnandrade\core\model\Course.class
